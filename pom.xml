@@ -8,8 +8,8 @@
     <artifactId>mb2g-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
     <scm>
-        <developerConnection>scm:git:https://github.com/ikaudanaveen/failsafe.git</developerConnection>
-        <url>https://github.com/ikaudanaveen/failsafe.git</url>
+        <developerConnection>scm:git:https://github.com/ikaudanaveen/surefirenew.git</developerConnection>
+        <url>https://github.com/ikaudanaveen/surefirenew.git</url>
         <tag>HEAD</tag>
     </scm>
     <properties>
